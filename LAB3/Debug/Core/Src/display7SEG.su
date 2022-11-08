@@ -1,0 +1,3 @@
+display7SEG.c:9:6:display7SEG	16	static
+display7SEG.c:102:6:displayTIME	16	static
+display7SEG.c:195:6:displayReplaceTIME	16	static
